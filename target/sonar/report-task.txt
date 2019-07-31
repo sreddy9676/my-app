@@ -1,0 +1,6 @@
+projectKey=in.javahome:myweb
+serverUrl=http://13.127.14.142:9000
+serverVersion=7.7.0.23042
+dashboardUrl=http://13.127.14.142:9000/dashboard?id=in.javahome%3Amyweb
+ceTaskId=AWwQOQZDql4-KPK2vtYa
+ceTaskUrl=http://13.127.14.142:9000/api/ce/task?id=AWwQOQZDql4-KPK2vtYa
