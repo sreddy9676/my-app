@@ -58,6 +58,10 @@
             <version>2.19</version>
         </plugin>
     </plugins>
+<properties>
+  <sonar.organization>sreddy9676</sonar.organization>
+  <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+</properties>	
 </build>
 	
 </project>
